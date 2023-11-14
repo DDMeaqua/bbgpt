@@ -194,7 +194,7 @@
                       data-nimg="1"
                       class="w-96 rounded-2xl"
                       style="color: transparent"
-                      src="https://bibigpt.co/_next/image?url=%2Fspice.jpeg&w=640&q=75"
+                      src="/sml.webp"
                     />
                   </div>
                   <div class="sm:mt-0 mt-8">
@@ -208,7 +208,7 @@
                       data-nimg="1"
                       class="w-96 rounded-2xl sm:mt-0 mt-2"
                       style="color: transparent"
-                      src="https://bibigpt.co/_next/image?url=%2Fspice-new.jpeg&w=640&q=75"
+                      src="/big.webp"
                     />
                   </div>
                 </div>
