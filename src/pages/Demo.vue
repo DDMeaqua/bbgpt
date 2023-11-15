@@ -14,7 +14,7 @@
             data-nimg="1"
             class="sm:w-10 sm:h-10 w-7 h-7"
             style="color: transparent"
-            src="https://bibigpt.co/_next/image?url=%2Fhuman%2Fpipigpt2.png&w=32&q=75"
+            src="/logo.webp"
           />
           <h1 class="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
             <span class="text-pink-400/90">Pipi</span>
@@ -276,8 +276,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fgirl.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fgirl.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fgirl.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -322,8 +321,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fmale.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fmale.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fmale.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -368,8 +366,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fmale3.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fmale3.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fmale3.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -418,8 +415,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fgirl4.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fgirl4.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fgirl4.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -468,8 +464,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fmale2.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fmale2.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fmale2.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -518,8 +513,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fgirl3.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fgirl3.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fgirl3.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -564,8 +558,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fgirl2.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fgirl2.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fgirl2.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
@@ -611,8 +604,7 @@
                               data-nimg="1"
                               class="h-14 w-14 object-cover"
                               style="color: transparent"
-                              srcSet="/_next/image?url=%2Fhuman%2Fgirl5.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2Fhuman%2Fgirl5.png&amp;w=128&amp;q=75 2x"
-                              src="/_next/image?url=%2Fhuman%2Fgirl5.png&amp;w=128&amp;q=75"
+                              src="/logo.webp"
                             />
                           </div>
                         </figcaption>
