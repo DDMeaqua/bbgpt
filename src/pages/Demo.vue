@@ -47,7 +47,6 @@
           <div>
             <button
               class="rounded-xl border border-black bg-black px-1 py-0.5 text-sm text-white transition-all hover:bg-white hover:text-black md:rounded-full md:p-1.5 md:px-4"
-              style="opacity: 0"
             >
               登录
             </button>
