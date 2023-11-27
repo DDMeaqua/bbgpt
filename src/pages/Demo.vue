@@ -36,8 +36,8 @@
                   ></path>
                 </svg>
                 <span
-                  class="index-module_type__E-SaG relative text-pink-400"
-                ></span>
+                  class="index-module_type__E-SaG relative text-pink-400" v-for="(letter, index) in displayedText" :key="index"
+                >{{ letter }}</span>
               </span>
               文案
             </div>
@@ -583,8 +583,43 @@
 </template>
 
 <script setup>
+import { ref, onMounted } from 'vue';
 import Pricing from '../components/Pricing.vue'
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue'
 import Cards from '../components/Cards.vue'
+
+const words = ref(["小红书", "微博", "朋友圈"]);
+const displayedText = ref("");
+let wordIndex = ref(0);
+let letterIndex = ref(0);
+
+const typeWriterEffect = () => {
+  const typingDelay = 250; // 打字间隔时间
+  const pauseDuration = 1500; // 一个词完整出现后的停顿时间
+
+  const typeNextLetter = () => {
+    const word = words.value[wordIndex.value];
+
+    if (letterIndex.value < word.length) {
+      displayedText.value += word[letterIndex.value];
+      letterIndex.value++;
+      setTimeout(typeNextLetter, typingDelay);
+    } else {
+      // 停顿一定时间后，移动到下一个词
+      setTimeout(() => {
+        wordIndex.value = (wordIndex.value + 1) % words.value.length;
+        letterIndex.value = 0;
+        displayedText.value = "";
+        typeNextLetter(); // 继续打下一个词
+      }, pauseDuration);
+    }
+  };
+
+  typeNextLetter(); // 开始打字
+};
+
+onMounted(() => {
+  typeWriterEffect();
+});
 </script>
