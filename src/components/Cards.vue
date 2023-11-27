@@ -10,7 +10,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAASFBMVEUAAAAYN2o7h9nT1t4oQmD19ftgs+lrxu2V1vYnQGgvRWju8Pbn6e/3+Pze4Oc1b7xIzfwjV6hgXmOtp6ZDrO2DqNqB0/eo0fDARVmRAAAAC3RSTlMA/v39MlOuaD/Zix2OiekAAALBSURBVFjD7ZXrjqMwDIXbpmXaxgToZfr+b7rxDQeTIFbaX6seQwhK5uPYVqaHr776l7rUddX1a2PDAnLtutg3FCFcLmG5HAtB1/0opxtHx3F/Vbzge58DR9E4jgLKs34PKOqNISiI8XccO05sH8hQQlG9XztBYCDhlLlBBr3+1lHUWOjlQOJYQncbKEKpRAJydHKgCFBslhcDASRIJgXFNcgARjRQzKAlKSAoRwn6bVfIUpsF8gCeOFCTtOiaqzUaMkc/26Asm+Pt5R0tPoQX1ctAkHzP5hqdlo6gJgQBFzuZfNf2gSCuQQGvgCBwjpaKHFIT8F2bFTEMtL/YTkDDHhDZAqCntd6AALXUZs+FdwJpsa1j212TnaaUgz5LdpJTyJEikKNTCVIfCS8NAfUGCjxo2zyItlalNcJJTdGBWmIQyfcLOBwoSpO0QRTqSF744U/R2hFURBzpGkjxCi1BnRR7LrGp6Bq4jqHWxf4QSFWyMifT+KgFuTQY5B3F3pfSUqPagCjxUE3t9dEC66UhIJox3QZCO0ef+Vfd+oNSEK+A2RXK2hHtcKLdkhovJ7xL1UBSbC8EJPpMeTRUqeYIkhefykQ1omWjtEHtoySOkLQWpmugF6dWlYB6+1n08iBG8W1CRwmKF8DRlDyIPrkSO0iSmj9qTHKgag3k60m6FpyYVAeFMjAlA/GiA6W9jiIwCNwyETW39+BAlY6po3rDEsdnAaI0XEhm4kg5npW8I2HJjCkCsrfo3FCxnSMQlI48iCNnKOkzC57rGpktOfWyWQ36f200W6T2DgzR0iBCbVD7Ko6UFgYDnYbHs6HwDHQ0n009pgw6i6Ph+GgLd+extXwsQadhOjZFu5uakGOg0zBMDcn+xjpzBgLdJ+Q0NRFj2NJ0O5Duxy0R6LipGxoindu632555+1+3tDhq6/+W/0B1Yimu70xqwEAAAAASUVORK5CYII="
+              src="/111.png"
               alt="Article Writing"
               class="h-6 w-6"
             />
@@ -33,7 +33,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/icon08.23a4f16.png"
+              src="/111.png"
               alt="Article Outline Writing"
               class="h-6 w-6"
             />
@@ -56,7 +56,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/icon32.79a075f.png"
+              src="/111.png"
               alt="Article Polishing"
               class="h-6 w-6"
             />
@@ -131,7 +131,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/icon31.68045ae.png"
+              src="/111.png"
               alt="Summarize"
               class="h-6 w-6"
             />
@@ -154,7 +154,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/creative-writing-prompts.209e26d.png"
+              src="/111.png"
               alt="Creative Writing Prompts"
               class="h-6 w-6"
             />
@@ -177,7 +177,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/blog-post-brainstormer.c9fcf6d.png"
+              src="/111.png"
               alt="Blog Post Brainstormer"
               class="h-6 w-6"
             />
@@ -201,7 +201,7 @@
             class="flex-none overflow-hidden rounded-lg border border-secondary-100 bg-white p-1"
           >
             <img
-              src="/_nuxt/img/icon100.6aa0d4d.png"
+              src="/111.png"
               alt="Writing Template Generator"
               class="h-6 w-6"
             />
