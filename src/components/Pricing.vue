@@ -11,7 +11,7 @@
               <!-- Switch Container -->
               <div>
                 <label for="toggle-example" class="flex relative items-center mx-4 cursor-pointer">
-                  <input type="checkbox" id="toggle-example" class="sr-only">
+                  <input type="checkbox" id="toggle-example" class="sr-only" v-model="annual">
                   <div class="w-11 h-6 bg-gray-200 rounded-full border-2 border-gray-200 toggle-bg"></div>
                 </label>
               </div>
@@ -24,7 +24,7 @@
           <!-- Pricing Card -->
           <div class="flex flex-col p-6 mx-auto max-w-xl text-center bg-white rounded-lg border border-gray-200 shadow xl:max-w-lg xl:p-8">
               <h3 class="mb-4 text-2xl font-medium text-gray-900">Starter</h3>
-              <span class="text-5xl font-extrabold text-gray-900">$29</span>
+              <span class="text-5xl font-extrabold text-gray-900">${{ annual ? '120' : '12' }}</span>
               <p class="mt-4 mb-1 text-gray-500 text-light">$19 USD per month, paid annually</p>
               <a href="#" class="inline-flex justify-center items-center font-medium text-primary-600 hover:text-primary-800">
                   Go to annual plan
@@ -77,11 +77,8 @@
           </div>
           <!-- Pricing Card -->
           <div class="flex flex-col p-6 mx-auto max-w-xl text-center bg-white rounded-lg border shadow xl:max-w-lg border-primary-600 xl:p-8 border-purple-600">
-              <div class="mb-2">
-                  <span class="py-1 px-3 text-sm text-primary-800 bg-primary-100 rounded text-purple-600 bg-purple-200">Most popular</span>
-              </div>
               <h3 class="mb-4 text-2xl font-medium text-gray-900">Premium</h3>
-              <span class="text-5xl font-extrabold text-gray-900">$199</span>
+              <span class="text-5xl font-extrabold text-gray-900">${{ annual ? '199' : '19' }}</span>
               <p class="mt-4 mb-1 text-gray-500 text-light">$159 USD per month, paid annually</p>
               <a href="#" class="inline-flex justify-center items-center font-medium text-primary-600 hover:text-primary-800">
                   Go to annual plan
@@ -135,7 +132,7 @@
           <!-- Pricing Card -->
           <div class="flex flex-col p-6 mx-auto max-w-xl text-center bg-white rounded-lg border border-gray-200 shadow xl:max-w-lg xl:p-8">
               <h3 class="mb-4 text-2xl font-medium text-gray-900">Enterprise</h3>
-              <span class="text-5xl font-extrabold text-gray-900">$599</span>
+              <span class="text-5xl font-extrabold text-gray-900">${{ annual ? '599' : '59' }}</span>
               <p class="mt-4 mb-1 text-gray-500 text-light ">$499 USD per month, paid annually</p>
               <a href="#" class="inline-flex justify-center items-center font-medium text-primary-600 hover:text-primary-800">
                   Go to annual plan
@@ -191,6 +188,11 @@
 </section>
 </template>
 
-<script setup></script>
+<script setup>
+import { ref } from 'vue'
+
+const annual = ref(true)
+
+</script>
 
 <style lang="scss" scoped></style>
