@@ -595,8 +595,8 @@ let wordIndex = ref(0);
 let letterIndex = ref(0);
 
 const typeWriterEffect = () => {
-  const typingDelay = 250; // 打字间隔时间
-  const pauseDuration = 1500; // 一个词完整出现后的停顿时间
+  const typingDelay = 200; // 打字间隔时间
+  const pauseDuration = 1200; // 一个词完整出现后的停顿时间
 
   const typeNextLetter = () => {
     const word = words.value[wordIndex.value];
