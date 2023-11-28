@@ -3,7 +3,7 @@
     <div class="mt-4 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
       <a
         href="/templates/1"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Article Writing"
         ><div class="flex items-center gap-2">
           <div
@@ -24,9 +24,10 @@
         <p class="mt-4 line-clamp-2 text-sm text-slate-400">
           Write an engaging article based on your topic.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/2"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Article Outline Writing"
         ><div class="flex items-center gap-2">
           <div
@@ -47,9 +48,10 @@
         <p class="mt-4 line-clamp-2 text-sm text-slate-400">
           Outline ideas based on the article topic.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/3"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Article Polishing"
         ><div class="flex items-center gap-2">
           <div
@@ -72,9 +74,10 @@
           <span class="lowercase">Article Polishing</span>
           based on the subject.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/4"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Article Continued"
         ><div class="flex items-center gap-2">
           <div
@@ -97,9 +100,10 @@
           <span class="lowercase">Article Continued</span>
           based on the subject.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/5"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Title Generator"
         ><div class="flex items-center gap-2">
           <div
@@ -122,9 +126,10 @@
           <span class="lowercase">Title Generator</span>
           based on the subject.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/6"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Summarize"
         ><div class="flex items-center gap-2">
           <div
@@ -145,9 +150,10 @@
         <p class="mt-4 line-clamp-2 text-sm text-slate-400">
           Summarize the following text into 100 words
         </p></a
-      ><a
+      >
+      <a
         href="/templates/111"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Creative Writing Prompts"
         ><div class="flex items-center gap-2">
           <div
@@ -168,9 +174,10 @@
         <p class="mt-4 line-clamp-2 text-sm text-slate-400">
           Get inspired with unique writing prompts for your next creative story.
         </p></a
-      ><a
+      >
+      <a
         href="/templates/112"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Blog Post Brainstormer"
         ><div class="flex items-center gap-2">
           <div
@@ -194,7 +201,7 @@
         </p></a
       ><a
         href="/templates/99"
-        class="group block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
+        class="group mx-2 md:mx-0 block h-full overflow-hidden rounded-xl border border-secondary-100 bg-white px-6 py-5 transition-shadow duration-300 hover:shadow-sm"
         title="Writing Template Generator"
         ><div class="flex items-center gap-2">
           <div
